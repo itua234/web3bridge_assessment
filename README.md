@@ -9,9 +9,11 @@ Real-Time Calculations: Get real-time updates on savings and returns.
 User Management: Easy-to-use interface for adding and managing users.
 Investment Tracking: Keep track of investments in blockchain games.
 Secure and Reliable: Built with security best practices to ensure the safety of users' data.
+
 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Version Control: Git
+
 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
